@@ -1,5 +1,5 @@
 ## Hi there: 👋
-<!--
+
 My name is Acemar Marques.
 
 - 🎓 Currently, I am a technology student in the Technical Computer Science course at CEET Vasco Coutinho.
@@ -8,4 +8,4 @@ My name is Acemar Marques.
 - 🔍 I am seeking internship opportunities to apply and expand my knowledge.
 - 💬 You can ask me about technology, programming, and software development.
 - 📫 How to reach me: [LinkedIn](seu-linkedin) | [Twitter](https://twitter.com/MarquesM52279)
--->
+
